@@ -2,7 +2,7 @@
 NYCU 2023 AI Final Project
 
 # Dataset
-COCO2017\n
+COCO2017  
 https://cocodataset.org/#download
 
 -data
