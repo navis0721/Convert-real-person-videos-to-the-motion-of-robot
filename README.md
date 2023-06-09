@@ -1,2 +1,2 @@
-# Convert-real-person-videos-to-the-motion-of-robot
+# Synthesizing Dynamic Movements for Non-Experts
 NYCU 2023 AI Final Project
