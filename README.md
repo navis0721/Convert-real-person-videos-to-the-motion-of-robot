@@ -8,5 +8,8 @@ COCO2017
 https://cocodataset.org/#download
 
 # Keypoint Detection
+install require package  
+run train.py  
+run predict_visualize.py
 
 # Image to Image
